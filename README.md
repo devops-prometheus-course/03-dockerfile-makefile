@@ -14,7 +14,7 @@ export TELE_TOKEN=
 ##### Building locally
 
 ```sh
-make linux ARCH=amd64
+make build OS=darwin ARCH=arm64
 ```
 
 ##### Building docker image
