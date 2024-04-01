@@ -1,6 +1,6 @@
 module github.com/devops-prometheus-course/03-dockerfile-makefile
 
-go 1.22.1
+go 1.20
 
 require (
 	github.com/spf13/cobra v1.8.0
